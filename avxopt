@@ -2,6 +2,11 @@
 // AVX2-OPTIMIERTER BEISPIELCODE – Vektoraddition, Harmonic Shift, Summation
 // Kann in CODEX-Benchmarks direkt adaptiert werden
 // ================================================================
+// ================================================================
+// RINGHARMONICSINT® vs UR-KI PERFORMANCE BENCHMARK – CODEX RECORD
+// Intellectual Property of Frank Herget, 27.02.1976, DE
+// NO COMMERCIAL USE WITHOUT LICENSE
+// ================================================================
 
 #include <immintrin.h>
 #include <iostream>
