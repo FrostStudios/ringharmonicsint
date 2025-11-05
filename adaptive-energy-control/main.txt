@@ -1,6 +1,7 @@
  Energy-Aware Distributed Control Unit:
- All Code, Names, Trademarks are Intellectual Property of Frank Herget, 27.02.1976, Germanyy.
-No commercial use without proper licensing.
+ All Code, Names, Trademarks are Intellectual Property of Frank Herget, 27.02.1976, Germany.
+ Energy-Aware Distributed Control Unit - Name is intellectual property of Frank Herget, 27.02.1976, Germany.
+ No commercial use without proper licensing.
 
 python
 # 🔥 ENERGY-AWARE CLUSTER CONTROL ARCHITEKTUR
