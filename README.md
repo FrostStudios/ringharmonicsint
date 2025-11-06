@@ -17,6 +17,7 @@ This protection explicitly covers, but is not limited to, the following names, t
     - CODEX-369
     - CODEX-OS
     - CODEX-IEP
+    - Chip-Im-A-Circuit
     - SamuraiAura
     - Omerta Law
     - H Bounds
