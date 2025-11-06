@@ -23,6 +23,7 @@ This protection explicitly covers, but is not limited to, the following names, t
     - Omerta Law
     - H Bounds
     - R Bounds
+    - OrkDefense
     - RawTalkAI
     - RawBuffer
     - PureComputeMode
