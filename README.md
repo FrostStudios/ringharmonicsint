@@ -21,6 +21,7 @@ This protection explicitly covers, but is not limited to, the following names, t
     - Omerta Law
     - H Bounds
     - R Bounds
+    - RawTalkAI
     - BlackHole / Burst Shield
     - Request Policy Gate / Intent Boundary
     - Coercion Response Orchestrator
