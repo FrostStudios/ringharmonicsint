@@ -23,6 +23,7 @@ This protection explicitly covers, but is not limited to, the following names, t
     - R Bounds
     - RawTalkAI
     - RawBuffer
+    - PureComputeMode
     - BlackHole / Burst Shield
     - Request Policy Gate / Intent Boundary
     - Coercion Response Orchestrator
